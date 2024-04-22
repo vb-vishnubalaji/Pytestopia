@@ -1,1 +1,6 @@
 pytest_venv
+.idea
+.pytest_cache
+source/__pycache__
+tests/.pytest_cache
+tests/__pycache__
